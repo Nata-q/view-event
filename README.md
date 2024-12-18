@@ -1,0 +1,1 @@
+- On peut observer que la vue personnalisé s'apelle dns, il y a des erreurs , des avertissements et des informations
